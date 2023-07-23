@@ -10,7 +10,7 @@ This app was built using JavaScript.
 The app "Weather App" shows the weather forecast in real time in any city in the world.
 
 ## About the app
-We get access to ARI
+We get access to API
   <p align="center">
 <img src="https://github.com/OksanaVasylkovska/weather-app/blob/main/img/api.png" width="80%"></p>
 
